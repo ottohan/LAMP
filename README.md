@@ -1,2 +1,2 @@
 # LAMP
-LAMP-stack installation with Saltstack
+LAMP-stack, SSH and UFW installation with Saltstack
